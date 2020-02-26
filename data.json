@@ -1,0 +1,77 @@
+[
+    {
+        "id:": 1,
+        "departureCity": "ABC",
+        "arrivalCity": "XYZ",
+        "currency": "DKK",
+        "price": 3000,
+        "companyName": "Air France",
+        "companyShortcut": "LH",
+        "departureTime": 1582188889,
+        "arrivalTime": 1582361689,
+        "totalTime": 200,
+        "stops": 3,
+        "schedule": [
+            {
+                "date": 1581501600,
+                "flightId": "SAS1",
+                "from": "A",
+                "to": "B",
+                "waitingTime": 0,
+                "flightTime": 80,
+                "order": 0
+            },
+            {
+                "date": 1581510000,
+                "flightId": "SAS1",
+                "from": "B",
+                "to": "C",
+                "waitingTime": 60,
+                "flightTime": 180,
+                "order": 1
+            },
+            {
+                "date": 1581513600,
+                "flightId": "SAS1",
+                "from": "C",
+                "to": "D",
+                "waitingTime": 120,
+                "flightTime": 240,
+                "order": 2
+            }
+        ]
+    },
+    {
+        "id:": 2,
+        "departureCity": "Blah",
+        "arrivalCity": "123",
+        "currency": "DKK",
+        "price": 7000,
+        "companyName": "Air France",
+        "companyShortcut": "AC",
+        "departureTime": 1582188889,
+        "arrivalTime": 1582361689,
+        "totalTime": 200,
+        "stops": 2,
+        "schedule": [
+            {
+                "date": 1581501600,
+                "flightId": "SAS1",
+                "from": "A",
+                "to": "B",
+                "waitingTime": 0,
+                "flightTime": 80,
+                "order": 0
+            },
+            {
+                "date": 1581510000,
+                "flightId": "SAS1",
+                "from": "B",
+                "to": "C",
+                "waitingTime": 60,
+                "flightTime": 180,
+                "order": 1
+            }
+        ]
+    }
+]

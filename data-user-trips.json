@@ -1,0 +1,1040 @@
+[
+    {
+        "id": "b960b2189b545e8954c6765c73f2e628",
+        "departureCity": "Wroclaw",
+        "arrivalCity": "Copenhagen",
+        "currency": "DKK",
+        "price": "700",
+        "companyName": "Air France",
+        "companyShortcut": "AC",
+        "departureTime": "1582626400",
+        "arrivalTime": "1582361689",
+        "totalTime": "320",
+        "stops": "2",
+        "schedule": {
+            "date": "",
+            "flightId": "",
+            "from": "",
+            "to": "",
+            "waitingTime": "",
+            "flightTime": ""
+        }
+    },
+    {
+        "id": "1kwdkwndw3233",
+        "departureCity": "London",
+        "arrivalCity": "Paris",
+        "currency": "DKK",
+        "price": 3000,
+        "companyName": "Air France",
+        "companyShortcut": "LH",
+        "departureTime": 1582188889,
+        "arrivalTime": 1582361689,
+        "totalTime": 200,
+        "stops": 3,
+        "schedule": [
+            {
+                "date": 1581501600,
+                "flightId": "SAS1",
+                "from": "London",
+                "to": "B",
+                "waitingTime": 0,
+                "flightTime": 80,
+                "order": 0
+            },
+            {
+                "date": 1581510000,
+                "flightId": "SAS1",
+                "from": "B",
+                "to": "C",
+                "waitingTime": 60,
+                "flightTime": 180,
+                "order": 1
+            },
+            {
+                "date": 1581513600,
+                "flightId": "SAS1",
+                "from": "C",
+                "to": "Paris",
+                "waitingTime": 120,
+                "flightTime": 240,
+                "order": 2
+            }
+        ]
+    },
+    {
+        "id": "1kwdkwndw3233",
+        "departureCity": "London",
+        "arrivalCity": "Paris",
+        "currency": "DKK",
+        "price": 3000,
+        "companyName": "Air France",
+        "companyShortcut": "LH",
+        "departureTime": 1581504614,
+        "arrivalTime": 1581504614,
+        "totalTime": 200,
+        "stops": 3,
+        "schedule": [
+            {
+                "date": 1581501600,
+                "flightId": "SAS1",
+                "from": "London",
+                "to": "B",
+                "waitingTime": 0,
+                "flightTime": 80,
+                "order": 0
+            },
+            {
+                "date": 1581510000,
+                "flightId": "SAS1",
+                "from": "B",
+                "to": "C",
+                "waitingTime": 60,
+                "flightTime": 180,
+                "order": 1
+            },
+            {
+                "date": 1581513600,
+                "flightId": "SAS1",
+                "from": "C",
+                "to": "Paris",
+                "waitingTime": 120,
+                "flightTime": 240,
+                "order": 2
+            }
+        ]
+    },
+    {
+        "id": "b960b2189b545e8954c6765c73f2e628",
+        "departureCity": "Wroclaw",
+        "arrivalCity": "Copenhagen",
+        "currency": "DKK",
+        "price": "700",
+        "companyName": "Air France",
+        "companyShortcut": "AC",
+        "departureTime": "1582626400",
+        "arrivalTime": "1582361689",
+        "totalTime": "320",
+        "stops": "2",
+        "schedule": {
+            "date": "",
+            "flightId": "",
+            "from": "",
+            "to": "",
+            "waitingTime": "",
+            "flightTime": ""
+        }
+    },
+    {
+        "id": "b960b2189b545e8954c6765c73f2e628",
+        "departureCity": "Wroclaw",
+        "arrivalCity": "Copenhagen",
+        "currency": "DKK",
+        "price": "700",
+        "companyName": "Air France",
+        "companyShortcut": "AC",
+        "departureTime": "1582626400",
+        "arrivalTime": "1582361689",
+        "totalTime": "320",
+        "stops": "2",
+        "schedule": {
+            "date": "",
+            "flightId": "",
+            "from": "",
+            "to": "",
+            "waitingTime": "",
+            "flightTime": ""
+        }
+    },
+    {
+        "id": "b960b2189b545e8954c6765c73f2e628",
+        "departureCity": "Wroclaw",
+        "arrivalCity": "Copenhagen",
+        "currency": "DKK",
+        "price": "700",
+        "companyName": "Air France",
+        "companyShortcut": "AC",
+        "departureTime": "1582626400",
+        "arrivalTime": "1582361689",
+        "totalTime": "320",
+        "stops": "2",
+        "schedule": {
+            "date": "",
+            "flightId": "",
+            "from": "",
+            "to": "",
+            "waitingTime": "",
+            "flightTime": ""
+        }
+    },
+    {
+        "id": "22jn3j2n3j23",
+        "departureCity": "Amsterdam",
+        "arrivalCity": "Moscow",
+        "currency": "DKK",
+        "price": 7000,
+        "companyName": "Air France",
+        "companyShortcut": "AC",
+        "departureTime": 1582626400,
+        "arrivalTime": 1582361689,
+        "totalTime": 500,
+        "stops": 2,
+        "schedule": [
+            {
+                "date": 1581501600,
+                "flightId": "SAS1",
+                "from": "Amsterdam",
+                "to": "B",
+                "waitingTime": 0,
+                "flightTime": 90,
+                "order": 0
+            },
+            {
+                "date": 1581510000,
+                "flightId": "SAS1",
+                "from": "B",
+                "to": "Moscow",
+                "waitingTime": 60,
+                "flightTime": 120,
+                "order": 1
+            }
+        ]
+    },
+    {
+        "id": "22jn3j2n3j23",
+        "departureCity": "Amsterdam",
+        "arrivalCity": "Moscow",
+        "currency": "DKK",
+        "price": 7000,
+        "companyName": "Air France",
+        "companyShortcut": "AC",
+        "departureTime": 1581331814,
+        "arrivalTime": 1581331814,
+        "totalTime": 500,
+        "stops": 2,
+        "schedule": [
+            {
+                "date": 1581501600,
+                "flightId": "SAS1",
+                "from": "Amsterdam",
+                "to": "B",
+                "waitingTime": 0,
+                "flightTime": 90,
+                "order": 0
+            },
+            {
+                "date": 1581510000,
+                "flightId": "SAS1",
+                "from": "B",
+                "to": "Moscow",
+                "waitingTime": 60,
+                "flightTime": 120,
+                "order": 1
+            }
+        ]
+    },
+    {
+        "id": "1kwdkwndw3233",
+        "departureCity": "London",
+        "arrivalCity": "Paris",
+        "currency": "DKK",
+        "price": 3000,
+        "companyName": "Air France",
+        "companyShortcut": "LH",
+        "departureTime": 1582188889,
+        "arrivalTime": 1582361689,
+        "totalTime": 200,
+        "stops": 3,
+        "schedule": [
+            {
+                "date": 1581501600,
+                "flightId": "SAS1",
+                "from": "London",
+                "to": "B",
+                "waitingTime": 0,
+                "flightTime": 80,
+                "order": 0
+            },
+            {
+                "date": 1581510000,
+                "flightId": "SAS1",
+                "from": "B",
+                "to": "C",
+                "waitingTime": 60,
+                "flightTime": 180,
+                "order": 1
+            },
+            {
+                "date": 1581513600,
+                "flightId": "SAS1",
+                "from": "C",
+                "to": "Paris",
+                "waitingTime": 120,
+                "flightTime": 240,
+                "order": 2
+            }
+        ]
+    },
+    {
+        "id": "1kwdkwndw3233",
+        "departureCity": "London",
+        "arrivalCity": "Paris",
+        "currency": "DKK",
+        "price": 3000,
+        "companyName": "Air France",
+        "companyShortcut": "LH",
+        "departureTime": 1581504614,
+        "arrivalTime": 1581504614,
+        "totalTime": 200,
+        "stops": 3,
+        "schedule": [
+            {
+                "date": 1581501600,
+                "flightId": "SAS1",
+                "from": "London",
+                "to": "B",
+                "waitingTime": 0,
+                "flightTime": 80,
+                "order": 0
+            },
+            {
+                "date": 1581510000,
+                "flightId": "SAS1",
+                "from": "B",
+                "to": "C",
+                "waitingTime": 60,
+                "flightTime": 180,
+                "order": 1
+            },
+            {
+                "date": 1581513600,
+                "flightId": "SAS1",
+                "from": "C",
+                "to": "Paris",
+                "waitingTime": 120,
+                "flightTime": 240,
+                "order": 2
+            }
+        ]
+    },
+    {
+        "id": "b960b2189b545e8954c6765c73f2e628",
+        "departureCity": "Wroclaw",
+        "arrivalCity": "Copenhagen",
+        "currency": "DKK",
+        "price": "700",
+        "companyName": "Air France",
+        "companyShortcut": "AC",
+        "departureTime": "1582626400",
+        "arrivalTime": "1582361689",
+        "totalTime": "320",
+        "stops": "2",
+        "schedule": {
+            "date": "",
+            "flightId": "",
+            "from": "",
+            "to": "",
+            "waitingTime": "",
+            "flightTime": ""
+        }
+    },
+    {
+        "id": "b960b2189b545e8954c6765c73f2e628",
+        "departureCity": "Wroclaw",
+        "arrivalCity": "Copenhagen",
+        "currency": "DKK",
+        "price": "700",
+        "companyName": "Air France",
+        "companyShortcut": "AC",
+        "departureTime": "1582626400",
+        "arrivalTime": "1582361689",
+        "totalTime": "320",
+        "stops": "2",
+        "schedule": {
+            "date": "",
+            "flightId": "",
+            "from": "",
+            "to": "",
+            "waitingTime": "",
+            "flightTime": ""
+        }
+    },
+    {
+        "id": "1kwdkwndw3233",
+        "departureCity": "London",
+        "arrivalCity": "Paris",
+        "currency": "DKK",
+        "price": 3000,
+        "companyName": "Air France",
+        "companyShortcut": "LH",
+        "departureTime": 1582188889,
+        "arrivalTime": 1582361689,
+        "totalTime": 200,
+        "stops": 3,
+        "schedule": [
+            {
+                "date": 1581501600,
+                "flightId": "SAS1",
+                "from": "London",
+                "to": "B",
+                "waitingTime": 0,
+                "flightTime": 80,
+                "order": 0
+            },
+            {
+                "date": 1581510000,
+                "flightId": "SAS1",
+                "from": "B",
+                "to": "C",
+                "waitingTime": 60,
+                "flightTime": 180,
+                "order": 1
+            },
+            {
+                "date": 1581513600,
+                "flightId": "SAS1",
+                "from": "C",
+                "to": "Paris",
+                "waitingTime": 120,
+                "flightTime": 240,
+                "order": 2
+            }
+        ]
+    },
+    {
+        "id": "1kwdkwndw3233",
+        "departureCity": "London",
+        "arrivalCity": "Paris",
+        "currency": "DKK",
+        "price": 3000,
+        "companyName": "Air France",
+        "companyShortcut": "LH",
+        "departureTime": 1581504614,
+        "arrivalTime": 1581504614,
+        "totalTime": 200,
+        "stops": 3,
+        "schedule": [
+            {
+                "date": 1581501600,
+                "flightId": "SAS1",
+                "from": "London",
+                "to": "B",
+                "waitingTime": 0,
+                "flightTime": 80,
+                "order": 0
+            },
+            {
+                "date": 1581510000,
+                "flightId": "SAS1",
+                "from": "B",
+                "to": "C",
+                "waitingTime": 60,
+                "flightTime": 180,
+                "order": 1
+            },
+            {
+                "date": 1581513600,
+                "flightId": "SAS1",
+                "from": "C",
+                "to": "Paris",
+                "waitingTime": 120,
+                "flightTime": 240,
+                "order": 2
+            }
+        ]
+    },
+    {
+        "id": "1kwdkwndw3233",
+        "departureCity": "London",
+        "arrivalCity": "Paris",
+        "currency": "DKK",
+        "price": 3000,
+        "companyName": "Air France",
+        "companyShortcut": "LH",
+        "departureTime": 1582188889,
+        "arrivalTime": 1582361689,
+        "totalTime": 200,
+        "stops": 3,
+        "schedule": [
+            {
+                "date": 1581501600,
+                "flightId": "SAS1",
+                "from": "London",
+                "to": "B",
+                "waitingTime": 0,
+                "flightTime": 80,
+                "order": 0
+            },
+            {
+                "date": 1581510000,
+                "flightId": "SAS1",
+                "from": "B",
+                "to": "C",
+                "waitingTime": 60,
+                "flightTime": 180,
+                "order": 1
+            },
+            {
+                "date": 1581513600,
+                "flightId": "SAS1",
+                "from": "C",
+                "to": "Paris",
+                "waitingTime": 120,
+                "flightTime": 240,
+                "order": 2
+            }
+        ]
+    },
+    {
+        "id": "1kwdkwndw3233",
+        "departureCity": "London",
+        "arrivalCity": "Paris",
+        "currency": "DKK",
+        "price": 3000,
+        "companyName": "Air France",
+        "companyShortcut": "LH",
+        "departureTime": 1581504614,
+        "arrivalTime": 1581504614,
+        "totalTime": 200,
+        "stops": 3,
+        "schedule": [
+            {
+                "date": 1581501600,
+                "flightId": "SAS1",
+                "from": "London",
+                "to": "B",
+                "waitingTime": 0,
+                "flightTime": 80,
+                "order": 0
+            },
+            {
+                "date": 1581510000,
+                "flightId": "SAS1",
+                "from": "B",
+                "to": "C",
+                "waitingTime": 60,
+                "flightTime": 180,
+                "order": 1
+            },
+            {
+                "date": 1581513600,
+                "flightId": "SAS1",
+                "from": "C",
+                "to": "Paris",
+                "waitingTime": 120,
+                "flightTime": 240,
+                "order": 2
+            }
+        ]
+    },
+    {
+        "id": "1kwdkwndw3233",
+        "departureCity": "London",
+        "arrivalCity": "Paris",
+        "currency": "DKK",
+        "price": 3000,
+        "companyName": "Air France",
+        "companyShortcut": "LH",
+        "departureTime": 1582188889,
+        "arrivalTime": 1582361689,
+        "totalTime": 200,
+        "stops": 3,
+        "schedule": [
+            {
+                "date": 1581501600,
+                "flightId": "SAS1",
+                "from": "London",
+                "to": "B",
+                "waitingTime": 0,
+                "flightTime": 80,
+                "order": 0
+            },
+            {
+                "date": 1581510000,
+                "flightId": "SAS1",
+                "from": "B",
+                "to": "C",
+                "waitingTime": 60,
+                "flightTime": 180,
+                "order": 1
+            },
+            {
+                "date": 1581513600,
+                "flightId": "SAS1",
+                "from": "C",
+                "to": "Paris",
+                "waitingTime": 120,
+                "flightTime": 240,
+                "order": 2
+            }
+        ]
+    },
+    {
+        "id": "1kwdkwndw3233",
+        "departureCity": "London",
+        "arrivalCity": "Paris",
+        "currency": "DKK",
+        "price": 3000,
+        "companyName": "Air France",
+        "companyShortcut": "LH",
+        "departureTime": 1581504614,
+        "arrivalTime": 1581504614,
+        "totalTime": 200,
+        "stops": 3,
+        "schedule": [
+            {
+                "date": 1581501600,
+                "flightId": "SAS1",
+                "from": "London",
+                "to": "B",
+                "waitingTime": 0,
+                "flightTime": 80,
+                "order": 0
+            },
+            {
+                "date": 1581510000,
+                "flightId": "SAS1",
+                "from": "B",
+                "to": "C",
+                "waitingTime": 60,
+                "flightTime": 180,
+                "order": 1
+            },
+            {
+                "date": 1581513600,
+                "flightId": "SAS1",
+                "from": "C",
+                "to": "Paris",
+                "waitingTime": 120,
+                "flightTime": 240,
+                "order": 2
+            }
+        ]
+    },
+    {
+        "id": "1kwdkwndw3233",
+        "departureCity": "London",
+        "arrivalCity": "Paris",
+        "currency": "DKK",
+        "price": 3000,
+        "companyName": "Air France",
+        "companyShortcut": "LH",
+        "departureTime": 1582188889,
+        "arrivalTime": 1582361689,
+        "totalTime": 200,
+        "stops": 3,
+        "schedule": [
+            {
+                "date": 1581501600,
+                "flightId": "SAS1",
+                "from": "London",
+                "to": "B",
+                "waitingTime": 0,
+                "flightTime": 80,
+                "order": 0
+            },
+            {
+                "date": 1581510000,
+                "flightId": "SAS1",
+                "from": "B",
+                "to": "C",
+                "waitingTime": 60,
+                "flightTime": 180,
+                "order": 1
+            },
+            {
+                "date": 1581513600,
+                "flightId": "SAS1",
+                "from": "C",
+                "to": "Paris",
+                "waitingTime": 120,
+                "flightTime": 240,
+                "order": 2
+            }
+        ]
+    },
+    {
+        "id": "1kwdkwndw3233",
+        "departureCity": "London",
+        "arrivalCity": "Paris",
+        "currency": "DKK",
+        "price": 3000,
+        "companyName": "Air France",
+        "companyShortcut": "LH",
+        "departureTime": 1581504614,
+        "arrivalTime": 1581504614,
+        "totalTime": 200,
+        "stops": 3,
+        "schedule": [
+            {
+                "date": 1581501600,
+                "flightId": "SAS1",
+                "from": "London",
+                "to": "B",
+                "waitingTime": 0,
+                "flightTime": 80,
+                "order": 0
+            },
+            {
+                "date": 1581510000,
+                "flightId": "SAS1",
+                "from": "B",
+                "to": "C",
+                "waitingTime": 60,
+                "flightTime": 180,
+                "order": 1
+            },
+            {
+                "date": 1581513600,
+                "flightId": "SAS1",
+                "from": "C",
+                "to": "Paris",
+                "waitingTime": 120,
+                "flightTime": 240,
+                "order": 2
+            }
+        ]
+    },
+    {
+        "id": "1kwdkwndw3233",
+        "departureCity": "London",
+        "arrivalCity": "Paris",
+        "currency": "DKK",
+        "price": 3000,
+        "companyName": "Air France",
+        "companyShortcut": "LH",
+        "departureTime": 1582188889,
+        "arrivalTime": 1582361689,
+        "totalTime": 200,
+        "stops": 3,
+        "schedule": [
+            {
+                "date": 1581501600,
+                "flightId": "SAS1",
+                "from": "London",
+                "to": "B",
+                "waitingTime": 0,
+                "flightTime": 80,
+                "order": 0
+            },
+            {
+                "date": 1581510000,
+                "flightId": "SAS1",
+                "from": "B",
+                "to": "C",
+                "waitingTime": 60,
+                "flightTime": 180,
+                "order": 1
+            },
+            {
+                "date": 1581513600,
+                "flightId": "SAS1",
+                "from": "C",
+                "to": "Paris",
+                "waitingTime": 120,
+                "flightTime": 240,
+                "order": 2
+            }
+        ]
+    },
+    {
+        "id": "1kwdkwndw3233",
+        "departureCity": "London",
+        "arrivalCity": "Paris",
+        "currency": "DKK",
+        "price": 3000,
+        "companyName": "Air France",
+        "companyShortcut": "LH",
+        "departureTime": 1581504614,
+        "arrivalTime": 1581504614,
+        "totalTime": 200,
+        "stops": 3,
+        "schedule": [
+            {
+                "date": 1581501600,
+                "flightId": "SAS1",
+                "from": "London",
+                "to": "B",
+                "waitingTime": 0,
+                "flightTime": 80,
+                "order": 0
+            },
+            {
+                "date": 1581510000,
+                "flightId": "SAS1",
+                "from": "B",
+                "to": "C",
+                "waitingTime": 60,
+                "flightTime": 180,
+                "order": 1
+            },
+            {
+                "date": 1581513600,
+                "flightId": "SAS1",
+                "from": "C",
+                "to": "Paris",
+                "waitingTime": 120,
+                "flightTime": 240,
+                "order": 2
+            }
+        ]
+    },
+    {
+        "id": "22jn3j2n3j23",
+        "departureCity": "Amsterdam",
+        "arrivalCity": "Moscow",
+        "currency": "DKK",
+        "price": 7000,
+        "companyName": "Air France",
+        "companyShortcut": "AC",
+        "departureTime": 1582626400,
+        "arrivalTime": 1582361689,
+        "totalTime": 500,
+        "stops": 2,
+        "schedule": [
+            {
+                "date": 1581501600,
+                "flightId": "SAS1",
+                "from": "Amsterdam",
+                "to": "B",
+                "waitingTime": 0,
+                "flightTime": 90,
+                "order": 0
+            },
+            {
+                "date": 1581510000,
+                "flightId": "SAS1",
+                "from": "B",
+                "to": "Moscow",
+                "waitingTime": 60,
+                "flightTime": 120,
+                "order": 1
+            }
+        ]
+    },
+    {
+        "id": "22jn3j2n3j23",
+        "departureCity": "Amsterdam",
+        "arrivalCity": "Moscow",
+        "currency": "DKK",
+        "price": 7000,
+        "companyName": "Air France",
+        "companyShortcut": "AC",
+        "departureTime": 1581331814,
+        "arrivalTime": 1581331814,
+        "totalTime": 500,
+        "stops": 2,
+        "schedule": [
+            {
+                "date": 1581501600,
+                "flightId": "SAS1",
+                "from": "Amsterdam",
+                "to": "B",
+                "waitingTime": 0,
+                "flightTime": 90,
+                "order": 0
+            },
+            {
+                "date": 1581510000,
+                "flightId": "SAS1",
+                "from": "B",
+                "to": "Moscow",
+                "waitingTime": 60,
+                "flightTime": 120,
+                "order": 1
+            }
+        ]
+    },
+    {
+        "id": "22jn3j2n3j23",
+        "departureCity": "Amsterdam",
+        "arrivalCity": "Moscow",
+        "currency": "DKK",
+        "price": 7000,
+        "companyName": "Air France",
+        "companyShortcut": "AC",
+        "departureTime": 1582626400,
+        "arrivalTime": 1582361689,
+        "totalTime": 500,
+        "stops": 2,
+        "schedule": [
+            {
+                "date": 1581501600,
+                "flightId": "SAS1",
+                "from": "Amsterdam",
+                "to": "B",
+                "waitingTime": 0,
+                "flightTime": 90,
+                "order": 0
+            },
+            {
+                "date": 1581510000,
+                "flightId": "SAS1",
+                "from": "B",
+                "to": "Moscow",
+                "waitingTime": 60,
+                "flightTime": 120,
+                "order": 1
+            }
+        ]
+    },
+    {
+        "id": "22jn3j2n3j23",
+        "departureCity": "Amsterdam",
+        "arrivalCity": "Moscow",
+        "currency": "DKK",
+        "price": 7000,
+        "companyName": "Air France",
+        "companyShortcut": "AC",
+        "departureTime": 1581331814,
+        "arrivalTime": 1581331814,
+        "totalTime": 500,
+        "stops": 2,
+        "schedule": [
+            {
+                "date": 1581501600,
+                "flightId": "SAS1",
+                "from": "Amsterdam",
+                "to": "B",
+                "waitingTime": 0,
+                "flightTime": 90,
+                "order": 0
+            },
+            {
+                "date": 1581510000,
+                "flightId": "SAS1",
+                "from": "B",
+                "to": "Moscow",
+                "waitingTime": 60,
+                "flightTime": 120,
+                "order": 1
+            }
+        ]
+    },
+    {
+        "id": "b960b2189b545e8954c6765c73f2e628",
+        "departureCity": "Wroclaw",
+        "arrivalCity": "Copenhagen",
+        "currency": "DKK",
+        "price": "700",
+        "companyName": "Air France",
+        "companyShortcut": "AC",
+        "departureTime": "1582626400",
+        "arrivalTime": "1582361689",
+        "totalTime": "320",
+        "stops": "2",
+        "schedule": {
+            "date": "",
+            "flightId": "",
+            "from": "",
+            "to": "",
+            "waitingTime": "",
+            "flightTime": ""
+        }
+    },
+    {
+        "id": "1kwdkwndw3233",
+        "departureCity": "London",
+        "arrivalCity": "Paris",
+        "currency": "DKK",
+        "price": 3000,
+        "companyName": "Air France",
+        "companyShortcut": "LH",
+        "departureTime": 1582188889,
+        "arrivalTime": 1582361689,
+        "totalTime": 200,
+        "stops": 3,
+        "schedule": [
+            {
+                "date": 1581501600,
+                "flightId": "SAS1",
+                "from": "London",
+                "to": "B",
+                "waitingTime": 0,
+                "flightTime": 80,
+                "order": 0
+            },
+            {
+                "date": 1581510000,
+                "flightId": "SAS1",
+                "from": "B",
+                "to": "C",
+                "waitingTime": 60,
+                "flightTime": 180,
+                "order": 1
+            },
+            {
+                "date": 1581513600,
+                "flightId": "SAS1",
+                "from": "C",
+                "to": "Paris",
+                "waitingTime": 120,
+                "flightTime": 240,
+                "order": 2
+            }
+        ]
+    },
+    {
+        "id": "1kwdkwndw3233",
+        "departureCity": "London",
+        "arrivalCity": "Paris",
+        "currency": "DKK",
+        "price": 3000,
+        "companyName": "Air France",
+        "companyShortcut": "LH",
+        "departureTime": 1581504614,
+        "arrivalTime": 1581504614,
+        "totalTime": 200,
+        "stops": 3,
+        "schedule": [
+            {
+                "date": 1581501600,
+                "flightId": "SAS1",
+                "from": "London",
+                "to": "B",
+                "waitingTime": 0,
+                "flightTime": 80,
+                "order": 0
+            },
+            {
+                "date": 1581510000,
+                "flightId": "SAS1",
+                "from": "B",
+                "to": "C",
+                "waitingTime": 60,
+                "flightTime": 180,
+                "order": 1
+            },
+            {
+                "date": 1581513600,
+                "flightId": "SAS1",
+                "from": "C",
+                "to": "Paris",
+                "waitingTime": 120,
+                "flightTime": 240,
+                "order": 2
+            }
+        ]
+    },
+    {
+        "id": "b960b2189b545e8954c6765c73f2e628",
+        "departureCity": "Wroclaw",
+        "arrivalCity": "Copenhagen",
+        "currency": "DKK",
+        "price": "700",
+        "companyName": "Air France",
+        "companyShortcut": "AC",
+        "departureTime": "1582626400",
+        "arrivalTime": "1582361689",
+        "totalTime": "320",
+        "stops": "2",
+        "schedule": {
+            "date": "",
+            "flightId": "",
+            "from": "",
+            "to": "",
+            "waitingTime": "",
+            "flightTime": ""
+        }
+    }
+]
